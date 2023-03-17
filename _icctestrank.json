@@ -4,20 +4,20 @@
       "id": "4",
       "rank": "1",
       "name": "Australia",
-      "rating": "126",
-      "matches": "29",
-      "points": "3668",
-      "lastUpdatedOn": "2023-03-13",
+      "rating": "122",
+      "matches": "34",
+      "points": "4143",
+      "lastUpdatedOn": "2023-03-16",
       "imageId": "172117"
     },
     {
       "id": "2",
       "rank": "2",
       "name": "India",
-      "rating": "115",
-      "matches": "32",
-      "points": "3690",
-      "lastUpdatedOn": "2023-03-13",
+      "rating": "119",
+      "matches": "37",
+      "points": "4420",
+      "lastUpdatedOn": "2023-03-16",
       "imageId": "172115"
     },
     {
@@ -27,17 +27,17 @@
       "rating": "106",
       "matches": "50",
       "points": "5314",
-      "lastUpdatedOn": "2023-03-13",
+      "lastUpdatedOn": "2023-03-16",
       "imageId": "172123"
     },
     {
       "id": "11",
       "rank": "4",
       "name": "South Africa",
-      "rating": "102",
-      "matches": "29",
-      "points": "2952",
-      "lastUpdatedOn": "2023-03-13",
+      "rating": "104",
+      "matches": "32",
+      "points": "3336",
+      "lastUpdatedOn": "2023-03-16",
       "imageId": "172126"
     },
     {
@@ -47,7 +47,7 @@
       "rating": "100",
       "matches": "33",
       "points": "3286",
-      "lastUpdatedOn": "2023-03-13",
+      "lastUpdatedOn": "2023-03-16",
       "imageId": "172128"
     },
     {
@@ -57,7 +57,7 @@
       "rating": "88",
       "matches": "30",
       "points": "2638",
-      "lastUpdatedOn": "2023-03-13",
+      "lastUpdatedOn": "2023-03-16",
       "imageId": "172116"
     },
     {
@@ -67,17 +67,17 @@
       "rating": "88",
       "matches": "26",
       "points": "2282",
-      "lastUpdatedOn": "2023-03-13",
+      "lastUpdatedOn": "2023-03-16",
       "imageId": "172119"
     },
     {
       "id": "10",
       "rank": "8",
       "name": "West Indies",
-      "rating": "78",
-      "matches": "31",
-      "points": "2415",
-      "lastUpdatedOn": "2023-03-13",
+      "rating": "76",
+      "matches": "34",
+      "points": "2571",
+      "lastUpdatedOn": "2023-03-16",
       "imageId": "172124"
     },
     {
@@ -87,18 +87,18 @@
       "rating": "46",
       "matches": "25",
       "points": "1161",
-      "lastUpdatedOn": "2023-03-13",
+      "lastUpdatedOn": "2023-03-16",
       "imageId": "172120"
     },
     {
-      "id": "12",
+      "id": "96",
       "rank": "10",
-      "name": "Zimbabwe",
-      "rating": "27",
-      "matches": "9",
-      "points": "243",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172127"
+      "name": "Afghanistan",
+      "rating": "40",
+      "matches": "3",
+      "points": "119",
+      "lastUpdatedOn": "2023-03-16",
+      "imageId": "172188"
     }
   ],
   "appIndex": {
