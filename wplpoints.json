@@ -1,0 +1,49 @@
+{
+  "teams": [
+    {
+      "name": "Mumbai Indians",
+      "sname": "MI",
+      "match": 6,
+      "win": 5,
+      "lose": 1,
+      "points": 10,
+      "nrr": 2.670
+    },
+    {
+      "name": "Delhi Capitals",
+      "sname": "DC",
+      "match": 6,
+      "win": 4,
+      "lose": 2,
+      "points": 8,
+      "nrr": 1.431
+    },
+    {
+      "name": "UP Warriorz",
+      "sname": "UPW",
+      "match": 6,
+      "win": 3,
+      "lose": 3,
+      "points": 6,
+      "nrr": -0.117
+    },
+    {
+      "name": "Gujrat Giants",
+      "sname": "GG",
+      "match": 6,
+      "win": 2,
+      "lose": 4,
+      "points": 4,
+      "nrr": -2.523
+    },
+    {
+      "name": "Royal Challengers Bangalore",
+      "sname": "RCB",
+      "match": 6,
+      "win": 1,
+      "lose": 5,
+      "points": 2,
+      "nrr": -1.550
+    }
+  ]
+}
