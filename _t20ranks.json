@@ -7,17 +7,17 @@
       "rating": "267",
       "matches": "69",
       "points": "18445",
-      "lastUpdatedOn": "2023-03-13",
+      "lastUpdatedOn": "2023-03-18",
       "imageId": "172115"
     },
     {
       "id": "9",
       "rank": "2",
       "name": "England",
-      "rating": "266",
-      "matches": "49",
-      "points": "13029",
-      "lastUpdatedOn": "2023-03-13",
+      "rating": "261",
+      "matches": "52",
+      "points": "13555",
+      "lastUpdatedOn": "2023-03-18",
       "imageId": "172123"
     },
     {
@@ -27,7 +27,7 @@
       "rating": "258",
       "matches": "55",
       "points": "14168",
-      "lastUpdatedOn": "2023-03-13",
+      "lastUpdatedOn": "2023-03-18",
       "imageId": "172116"
     },
     {
@@ -37,7 +37,7 @@
       "rating": "256",
       "matches": "41",
       "points": "10510",
-      "lastUpdatedOn": "2023-03-13",
+      "lastUpdatedOn": "2023-03-18",
       "imageId": "172126"
     },
     {
@@ -47,7 +47,7 @@
       "rating": "252",
       "matches": "53",
       "points": "13371",
-      "lastUpdatedOn": "2023-03-13",
+      "lastUpdatedOn": "2023-03-18",
       "imageId": "172128"
     },
     {
@@ -57,7 +57,7 @@
       "rating": "251",
       "matches": "47",
       "points": "11784",
-      "lastUpdatedOn": "2023-03-13",
+      "lastUpdatedOn": "2023-03-18",
       "imageId": "172117"
     },
     {
@@ -67,7 +67,7 @@
       "rating": "236",
       "matches": "51",
       "points": "12039",
-      "lastUpdatedOn": "2023-03-13",
+      "lastUpdatedOn": "2023-03-18",
       "imageId": "172124"
     },
     {
@@ -77,17 +77,17 @@
       "rating": "236",
       "matches": "53",
       "points": "12485",
-      "lastUpdatedOn": "2023-03-13",
+      "lastUpdatedOn": "2023-03-18",
       "imageId": "172119"
     },
     {
       "id": "6",
       "rank": "9",
       "name": "Bangladesh",
-      "rating": "222",
-      "matches": "51",
-      "points": "11328",
-      "lastUpdatedOn": "2023-03-13",
+      "rating": "227",
+      "matches": "54",
+      "points": "12266",
+      "lastUpdatedOn": "2023-03-18",
       "imageId": "172120"
     },
     {
@@ -97,752 +97,8 @@
       "rating": "216",
       "matches": "33",
       "points": "7112",
-      "lastUpdatedOn": "2023-03-13",
+      "lastUpdatedOn": "2023-03-18",
       "imageId": "172188"
-    },
-    {
-      "id": "12",
-      "rank": "11",
-      "name": "Zimbabwe",
-      "rating": "196",
-      "matches": "49",
-      "points": "9597",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172127"
-    },
-    {
-      "id": "27",
-      "rank": "12",
-      "name": "Ireland",
-      "rating": "190",
-      "matches": "57",
-      "points": "10818",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172141"
-    },
-    {
-      "id": "7",
-      "rank": "13",
-      "name": "UAE",
-      "rating": "184",
-      "matches": "32",
-      "points": "5898",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172121"
-    },
-    {
-      "id": "161",
-      "rank": "14",
-      "name": "Namibia",
-      "rating": "183",
-      "matches": "32",
-      "points": "5846",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172229"
-    },
-    {
-      "id": "23",
-      "rank": "15",
-      "name": "Scotland",
-      "rating": "182",
-      "matches": "24",
-      "points": "4373",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172137"
-    },
-    {
-      "id": "72",
-      "rank": "16",
-      "name": "Nepal",
-      "rating": "180",
-      "matches": "30",
-      "points": "5387",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172169"
-    },
-    {
-      "id": "24",
-      "rank": "17",
-      "name": "Netherlands",
-      "rating": "177",
-      "matches": "32",
-      "points": "5668",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172138"
-    },
-    {
-      "id": "304",
-      "rank": "18",
-      "name": "Oman",
-      "rating": "157",
-      "matches": "26",
-      "points": "4090",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172353"
-    },
-    {
-      "id": "287",
-      "rank": "19",
-      "name": "Papua New Guinea",
-      "rating": "146",
-      "matches": "24",
-      "points": "3495",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172336"
-    },
-    {
-      "id": "26",
-      "rank": "20",
-      "name": "Canada",
-      "rating": "137",
-      "matches": "24",
-      "points": "3297",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172140"
-    },
-    {
-      "id": "8",
-      "rank": "21",
-      "name": "Hong Kong",
-      "rating": "129",
-      "matches": "21",
-      "points": "2711",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172122"
-    },
-    {
-      "id": "303",
-      "rank": "22",
-      "name": "Jersey",
-      "rating": "127",
-      "matches": "23",
-      "points": "2924",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172352"
-    },
-    {
-      "id": "525",
-      "rank": "23",
-      "name": "Qatar",
-      "rating": "124",
-      "matches": "18",
-      "points": "2227",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172575"
-    },
-    {
-      "id": "44",
-      "rank": "24",
-      "name": "Uganda",
-      "rating": "123",
-      "matches": "46",
-      "points": "5648",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172151"
-    },
-    {
-      "id": "15",
-      "rank": "25",
-      "name": "United States",
-      "rating": "119",
-      "matches": "16",
-      "points": "1908",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172130"
-    },
-    {
-      "id": "298",
-      "rank": "26",
-      "name": "Kuwait",
-      "rating": "117",
-      "matches": "19",
-      "points": "2216",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "248427"
-    },
-    {
-      "id": "71",
-      "rank": "27",
-      "name": "Malaysia",
-      "rating": "114",
-      "matches": "35",
-      "points": "4000",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172168"
-    },
-    {
-      "id": "14",
-      "rank": "28",
-      "name": "Kenya",
-      "rating": "106",
-      "matches": "31",
-      "points": "3272",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172129"
-    },
-    {
-      "id": "543",
-      "rank": "29",
-      "name": "Bahrain",
-      "rating": "105",
-      "matches": "30",
-      "points": "3145",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172594"
-    },
-    {
-      "id": "190",
-      "rank": "30",
-      "name": "Singapore",
-      "rating": "102",
-      "matches": "28",
-      "points": "2857",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172250"
-    },
-    {
-      "id": "535",
-      "rank": "31",
-      "name": "Tanzania",
-      "rating": "100",
-      "matches": "36",
-      "points": "3598",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172586"
-    },
-    {
-      "id": "527",
-      "rank": "32",
-      "name": "Italy",
-      "rating": "96",
-      "matches": "19",
-      "points": "1818",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172577"
-    },
-    {
-      "id": "571",
-      "rank": "33",
-      "name": "Saudi Arabia",
-      "rating": "95",
-      "matches": "13",
-      "points": "1234",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172623"
-    },
-    {
-      "id": "25",
-      "rank": "34",
-      "name": "Bermuda",
-      "rating": "93",
-      "matches": "18",
-      "points": "1671",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172139"
-    },
-    {
-      "id": "77",
-      "rank": "35",
-      "name": "Germany",
-      "rating": "88",
-      "matches": "34",
-      "points": "2996",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172171"
-    },
-    {
-      "id": "523",
-      "rank": "36",
-      "name": "Spain",
-      "rating": "87",
-      "matches": "26",
-      "points": "2267",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "248450"
-    },
-    {
-      "id": "185",
-      "rank": "37",
-      "name": "Denmark",
-      "rating": "72",
-      "matches": "21",
-      "points": "1518",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172245"
-    },
-    {
-      "id": "533",
-      "rank": "38",
-      "name": "Guernsey",
-      "rating": "70",
-      "matches": "17",
-      "points": "1194",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172584"
-    },
-    {
-      "id": "1020",
-      "rank": "39",
-      "name": "Cayman Islands",
-      "rating": "68",
-      "matches": "12",
-      "points": "814",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "248399"
-    },
-    {
-      "id": "541",
-      "rank": "40",
-      "name": "Belgium",
-      "rating": "67",
-      "matches": "20",
-      "points": "1349",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172592"
-    },
-    {
-      "id": "536",
-      "rank": "41",
-      "name": "Nigeria",
-      "rating": "67",
-      "matches": "29",
-      "points": "1954",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "248436"
-    },
-    {
-      "id": "532",
-      "rank": "42",
-      "name": "Austria",
-      "rating": "65",
-      "matches": "26",
-      "points": "1686",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172583"
-    },
-    {
-      "id": "300",
-      "rank": "43",
-      "name": "Vanuatu",
-      "rating": "59",
-      "matches": "11",
-      "points": "645",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172349"
-    },
-    {
-      "id": "596",
-      "rank": "44",
-      "name": "Portugal",
-      "rating": "59",
-      "matches": "11",
-      "points": "644",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "248442"
-    },
-    {
-      "id": "1041",
-      "rank": "45",
-      "name": "Romania",
-      "rating": "57",
-      "matches": "24",
-      "points": "1359",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "247204"
-    },
-    {
-      "id": "557",
-      "rank": "46",
-      "name": "Isle of Man",
-      "rating": "56",
-      "matches": "15",
-      "points": "847",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172609"
-    },
-    {
-      "id": "529",
-      "rank": "47",
-      "name": "Botswana",
-      "rating": "55",
-      "matches": "18",
-      "points": "992",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172579"
-    },
-    {
-      "id": "1027",
-      "rank": "48",
-      "name": "Norway",
-      "rating": "53",
-      "matches": "17",
-      "points": "897",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "247201"
-    },
-    {
-      "id": "556",
-      "rank": "49",
-      "name": "Finland",
-      "rating": "52",
-      "matches": "17",
-      "points": "891",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172608"
-    },
-    {
-      "id": "539",
-      "rank": "50",
-      "name": "France",
-      "rating": "52",
-      "matches": "9",
-      "points": "470",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172590"
-    },
-    {
-      "id": "553",
-      "rank": "51",
-      "name": "Malawi",
-      "rating": "48",
-      "matches": "17",
-      "points": "818",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172605"
-    },
-    {
-      "id": "534",
-      "rank": "52",
-      "name": "Sweden",
-      "rating": "43",
-      "matches": "16",
-      "points": "690",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "248454"
-    },
-    {
-      "id": "1132",
-      "rank": "53",
-      "name": "Cook Islands",
-      "rating": "41",
-      "matches": "6",
-      "points": "245",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "247195"
-    },
-    {
-      "id": "561",
-      "rank": "54",
-      "name": "Czech Republic",
-      "rating": "41",
-      "matches": "28",
-      "points": "1137",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172613"
-    },
-    {
-      "id": "549",
-      "rank": "55",
-      "name": "Argentina",
-      "rating": "40",
-      "matches": "15",
-      "points": "604",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172601"
-    },
-    {
-      "id": "566",
-      "rank": "56",
-      "name": "Indonesia",
-      "rating": "38",
-      "matches": "7",
-      "points": "265",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172618"
-    },
-    {
-      "id": "1062",
-      "rank": "57",
-      "name": "Switzerland",
-      "rating": "36",
-      "matches": "11",
-      "points": "396",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "247207"
-    },
-    {
-      "id": "522",
-      "rank": "58",
-      "name": "Malta",
-      "rating": "36",
-      "matches": "33",
-      "points": "1179",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172572"
-    },
-    {
-      "id": "531",
-      "rank": "59",
-      "name": "Ghana",
-      "rating": "35",
-      "matches": "23",
-      "points": "813",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172581"
-    },
-    {
-      "id": "559",
-      "rank": "60",
-      "name": "Sierra Leone",
-      "rating": "34",
-      "matches": "17",
-      "points": "586",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172611"
-    },
-    {
-      "id": "547",
-      "rank": "61",
-      "name": "Japan",
-      "rating": "34",
-      "matches": "7",
-      "points": "236",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "248418"
-    },
-    {
-      "id": "537",
-      "rank": "62",
-      "name": "Luxembourg",
-      "rating": "34",
-      "matches": "23",
-      "points": "774",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172588"
-    },
-    {
-      "id": "551",
-      "rank": "63",
-      "name": "Mozambique",
-      "rating": "31",
-      "matches": "23",
-      "points": "721",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172603"
-    },
-    {
-      "id": "555",
-      "rank": "64",
-      "name": "Bhutan",
-      "rating": "30",
-      "matches": "8",
-      "points": "239",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172607"
-    },
-    {
-      "id": "343",
-      "rank": "65",
-      "name": "Fiji",
-      "rating": "30",
-      "matches": "6",
-      "points": "177",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172391"
-    },
-    {
-      "id": "569",
-      "rank": "66",
-      "name": "Rwanda",
-      "rating": "27",
-      "matches": "34",
-      "points": "918",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172621"
-    },
-    {
-      "id": "1111",
-      "rank": "67",
-      "name": "Cyprus",
-      "rating": "26",
-      "matches": "11",
-      "points": "283",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "247198"
-    },
-    {
-      "id": "1018",
-      "rank": "68",
-      "name": "Bahamas",
-      "rating": "24",
-      "matches": "15",
-      "points": "359",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "248394"
-    },
-    {
-      "id": "550",
-      "rank": "69",
-      "name": "Hungary",
-      "rating": "22",
-      "matches": "16",
-      "points": "358",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172602"
-    },
-    {
-      "id": "546",
-      "rank": "70",
-      "name": "Panama",
-      "rating": "22",
-      "matches": "10",
-      "points": "222",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172597"
-    },
-    {
-      "id": "540",
-      "rank": "71",
-      "name": "Belize",
-      "rating": "22",
-      "matches": "6",
-      "points": "132",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172591"
-    },
-    {
-      "id": "1067",
-      "rank": "72",
-      "name": "Serbia",
-      "rating": "11",
-      "matches": "17",
-      "points": "184",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "247205"
-    },
-    {
-      "id": "558",
-      "rank": "73",
-      "name": "Bulgaria",
-      "rating": "9",
-      "matches": "34",
-      "points": "296",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172610"
-    },
-    {
-      "id": "567",
-      "rank": "74",
-      "name": "Gambia",
-      "rating": "7",
-      "matches": "7",
-      "points": "50",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172619"
-    },
-    {
-      "id": "570",
-      "rank": "75",
-      "name": "Lesotho",
-      "rating": "7",
-      "matches": "12",
-      "points": "82",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172622"
-    },
-    {
-      "id": "563",
-      "rank": "76",
-      "name": "Maldives",
-      "rating": "5",
-      "matches": "15",
-      "points": "81",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172615"
-    },
-    {
-      "id": "545",
-      "rank": "77",
-      "name": "Samoa",
-      "rating": "5",
-      "matches": "8",
-      "points": "42",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172596"
-    },
-    {
-      "id": "564",
-      "rank": "78",
-      "name": "Gibraltar",
-      "rating": "3",
-      "matches": "21",
-      "points": "68",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172616"
-    },
-    {
-      "id": "1081",
-      "rank": "79",
-      "name": "Greece",
-      "rating": "3",
-      "matches": "9",
-      "points": "27",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "247199"
-    },
-    {
-      "id": "1179",
-      "rank": "80",
-      "name": "Cameroon",
-      "matches": "13",
-      "points": "0",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "247194"
-    },
-    {
-      "id": "526",
-      "rank": "81",
-      "name": "Estonia",
-      "matches": "12",
-      "points": "0",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172576"
-    },
-    {
-      "id": "1284",
-      "rank": "82",
-      "name": "Eswatini",
-      "matches": "18",
-      "points": "0",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "248525"
-    },
-    {
-      "id": "384",
-      "rank": "83",
-      "name": "Thailand",
-      "matches": "10",
-      "points": "0",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "172437"
-    },
-    {
-      "id": "897",
-      "rank": "84",
-      "name": "Turkey",
-      "matches": "6",
-      "points": "0",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "247208"
-    },
-    {
-      "id": "1277",
-      "rank": "85",
-      "name": "Seychelles",
-      "matches": "10",
-      "points": "0",
-      "lastUpdatedOn": "2023-03-13",
-      "imageId": "248523"
     }
   ],
   "appIndex": {
